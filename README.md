@@ -1,5 +1,8 @@
 # Dionysus Program — Static Essay
 
+> Personal learning copy of [barelyknown/dionysus-program](https://github.com/barelyknown/dionysus-program).
+> Original project by Sean Devine.
+
 This repository contains a single static webpage that renders the essay “The Dionysus Program.” The layout is intentionally minimal and borrows from the tone of hellaprompter.com's article design: centered column, serif typography, gentle borders, and understated hover states. The repo ships prebuilt outputs for GitHub Pages; run `./build.sh` when you update the essay.
 
 ## Abstract
